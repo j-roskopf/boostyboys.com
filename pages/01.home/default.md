@@ -10,7 +10,9 @@ body_classes: 'title-center title-h1h2'
 |[![steam](./steam.png)](https://steamcommunity.com/id/joebrothehobo)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/joebrothehobo)|
 
 ## sbaves15
-[![steam](./steam.png)](https://steamcommunity.com/id/sbaves15)
+|Steam|RL Tracker|
+|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/sbaves15)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/sbaves15)|
 
 ## Panzu
 [![steam](./steam.png)](https://steamcommunity.com/id/Panzukai)
