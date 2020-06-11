@@ -8,9 +8,7 @@ body_classes: 'title-center title-h1h2'
 |Steam|RL Tracker|
 |-|-|
 |[![steam](./steam.png)](https://steamcommunity.com/id/joebrothehobo)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/joebrothehobo)|
-
-
-
+<br>
 ## sbaves15
 |Steam|RL Tracker|
 |-|-|
