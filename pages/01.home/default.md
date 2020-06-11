@@ -15,30 +15,42 @@ body_classes: 'title-center title-h1h2'
 |[![steam](./steam.png)](https://steamcommunity.com/id/sbaves15)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/sbaves15)|
 
 ## Panzu
-[![steam](./steam.png)](https://steamcommunity.com/id/Panzukai)
+|Steam|RL Tracker|
+|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/Panzukai)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/Panzukai)|
 
 ## SayFoo
-[![steam](./steam.png)](https://steamcommunity.com/id/brad104805)
+|Steam|RL Tracker|
+|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/brad104805)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/brad104805)|
 
 ## Mysterio
-[![steam](./steam.png)](https://steamcommunity.com/id/therealandrewray)
+|Steam|RL Tracker|
+|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/therealandrewray)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/therealandrewray)|
 
 ## AwkSauce
-[![steam](./steam.png)](https://steamcommunity.com/id/AwkSauce)
+|Steam|RL Tracker|
+|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/AwkSauce)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/AwkSauce)|
 
 ## Tjack
-| Steam | Twitch|
-|-|-|
-|[![steam](./steam.png)](https://steamcommunity.com/id/tjacktv)|[![twitch](./twitch.png)](https://www.twitch.tv/tjack)|
+| Steam | Twitch|RL Tracker|
+|-|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/tjacktv)|[![twitch](./twitch.png)](https://www.twitch.tv/tjack)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/tjacktv)|
 
 ## jacoby400000
-[![steam](./steam.png)](https://steamcommunity.com/id/jacoby400000)
+|Steam|RL Tracker|
+|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/jacoby400000)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/jacoby400000)|
 
 ## Zamurai
-[![steam](./steam.png)](https://steamcommunity.com/profiles/76561199032663170)
-[![twitch](./twitch.png)](https://www.twitch.tv/zamurai_zack)
+| Steam | Twitch|RL Tracker|
+|-|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/76561199032663170)|[![twitch](./twitch.png)](https://www.twitch.tv/zamurai_zack)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/76561199032663170)|
 
 
 ## Tarr_RL TTV
-[![steam](./steam.png)](https://steamcommunity.com/profiles/76561198867024835)
-[![twitch](./twitch.png)](https://www.twitch.tv/tarr_rl)
+| Steam | Twitch|RL Tracker|
+|-|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/76561198867024835)|[![twitch](./twitch.png)](https://www.twitch.tv/tarr_rl)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/76561198867024835)|
