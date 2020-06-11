@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'logo.jpg,steam.png,twitch.png'
+media_order: 'logo.jpg,steam.png'
 body_classes: 'title-center title-h1h2'
 ---
 
