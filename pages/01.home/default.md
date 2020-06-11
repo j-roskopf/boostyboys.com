@@ -23,6 +23,8 @@ body_classes: 'title-center title-h1h2'
 [![steam](./steam.png)](https://steamcommunity.com/id/AwkSauce)
 
 ## Tjack
+| Steam | Twitch|
+|-|-|
 |[![steam](./steam.png)](https://steamcommunity.com/id/tjacktv)|[![twitch](./twitch.png)](https://www.twitch.tv/tjack)|
 
 ## jacoby400000
