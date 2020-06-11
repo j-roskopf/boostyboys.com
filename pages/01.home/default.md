@@ -1,11 +1,13 @@
 ---
 title: Home
-media_order: 'logo.jpg,steam.png'
+media_order: 'logo.jpg,steam.png,twitch.png,rltracker.png'
 body_classes: 'title-center title-h1h2'
 ---
 
 ## joebrothehobo
-[![steam](./steam.png)](https://steamcommunity.com/id/joebrothehobo)
+|Steam|RL Tracker|
+|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/joebrothehobo)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/joebrothehobo)|
 
 ## sbaves15
 [![steam](./steam.png)](https://steamcommunity.com/id/sbaves15)
