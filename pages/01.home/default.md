@@ -32,6 +32,13 @@ body_classes: 'title-center title-h1h2'
 
 <br>
 
+## Morgs
+|Steam|RL Tracker|
+|-|-|
+|[![steam](./steam.png)](https://steamcommunity.com/id/Morgs04)|[![rltracker](./rltracker.png)](https://rocketleague.tracker.network/profile/steam/morgs04)|
+
+<br>
+
 ## Mysterio
 |Steam|RL Tracker|
 |-|-|
